@@ -23,7 +23,7 @@ Depuis le lundi 29 Mars, nos étudiants font campagne dans le cadre du programme
 
 Ils sont donc 6 à battre campagne dans une ambiance bienveillante mais avec beaucoup d'ardeure malgré les différents projets qu'ils doivent mener dans le cadre de leur programme d'études sans compter leurs hobbies. Et oui, nos étudiants ont du talent !
 
-Nous voila donc ce jeudi 08/04/2021, réunis dans la salle de formation située à côté de l'espavce de coworking dédié aux entreprneurs afin de prendre part studieusement à la formation qui nous permettrait de créer notre premier site et de l'héberger...tout ça en 1h ! 
+Nous voila donc ce jeudi 08/04/2021, réunis dans la salle de formation située à côté de l'espace de coworking dédié aux entreprneurs afin de prendre part studieusement à la formation qui nous permettrait de créer notre premier site et de l'héberger...tout ça en 1h ! 
 
 ![Image](Coder et héberger son site.jpeg)
 
