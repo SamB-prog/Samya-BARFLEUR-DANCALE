@@ -1,4 +1,4 @@
-.site-title::before {content: url("/assets/logo.jpg");
+.site-title::before {content: ![Image](logo.png)
 
 # Welcome to my world !
 
