@@ -8,7 +8,6 @@ Mon premier site codé facilement
 
 #### créé par SamB
 
-[samb creations](https://instagram.com/sambcreations)
-
+[Google](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
 
 ![Image](AdobeStock_306299275.jpeg)
