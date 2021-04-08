@@ -1,2 +1,5 @@
-# samya
-Mon premier site codé
+# Samya BARFLEUR
+
+Mon premier site codé facilement
+
+créé par SamB
