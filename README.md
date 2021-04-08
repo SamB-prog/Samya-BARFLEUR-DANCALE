@@ -1,5 +1,4 @@
-.site-title::before {
-content: url("/assets/LogoRaro.jpg");
+.site-title::before {content: url("/assets/LogoRaro.jpg");
 display: inline-block;
 position: relative;
 width: 35px;
