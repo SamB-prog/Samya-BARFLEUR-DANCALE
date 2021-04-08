@@ -11,6 +11,8 @@ Tu peux visiter ma [page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dan
 
 ### 08/04/2021 : la création de mon 1er site internet :)
 
+![Image](Coder et héberger son site.jpeg)
+
 Depuis le lundi 29 Mars, nos étudiants font campagne dans le cadre du programme étudiant Ambassadeur du 1er Campus de Sèmè City, appelé Sèmè One.
 Ils sont 6 à battre campagne dans une ambiance bienveillante mais avec beaucoup d'ardeure malgré les différents projets qu'ils doivent mener dans le cadre de leur programme d'études sans compter leurs hobbies. Et oui, nos étudiants ont du talent !
 
