@@ -1,4 +1,4 @@
-.site-title::before {content: url("/assets/LogoRaro.jpg");
+.site-title::before {content: url("/assets/logo.jpg");
 display: inline-block;
 position: relative;
 width: 35px;
