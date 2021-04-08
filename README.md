@@ -1,8 +1,4 @@
 .site-title::before {content: url("/assets/logo.jpg");
-display: inline-block;
-position: relative;
-width: 35px;
-top: 5px;
 
 # Welcome to my world !
 
