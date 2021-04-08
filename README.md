@@ -1,13 +1,8 @@
-# Samya BARFLEUR
+# Samya BARFLEUR 
+#### aka Sam B
 
-![Image](logo.png)
-
-Mon premier site codé facilement
-
-![Image](SAMYA_01-BQ.jpg)
-
-#### créé par SamB
+Qui suis-je, mes hobbies, mes passions, mes emmerdes... vous saurez tout !
 
 [Page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
 
-![Image](AdobeStock_306299275.jpeg)
+![Image](SAMYA_01-BQ.jpg)
