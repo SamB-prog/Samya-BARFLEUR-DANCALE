@@ -1,10 +1,10 @@
-.site-title::before {content: ![Image](logo.png)
-
 # Welcome to my world !
 
-Qui suis-je : mon travail, mes hobbies, mes emmerdes !
+Dans le cadre de la campagne du programme Ambassadeur de Sèmè City. Un des candidats Hamidou TESSILIMI, a proposé une mini formation pour apprendre à coder sur Github. En 1h dit-il ! Je dois avouer que j'avais du mal à croire à cette promesse. 
+Mais voilà j'ai bel et bien appris à coder mon premier site en 1h. 
+Ici je vous raconte tout. Qui suis-je : mon travail, mes hobbies, mes emmerdes !
 
-[Page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
+Vous pouvez visiter ma [page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)pour avoir plus d'informations sur les activités que je mène à Sèmè City, la Cité internationale de l'innovation et du Savoir (CIIS) ou aller voir ma [page instagram](https://www.instagram.com/sambcreations)
 
 ![Image](SAMYA_01-BQ.jpg)
 
