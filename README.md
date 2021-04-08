@@ -1,3 +1,10 @@
+.site-title::before {
+content: url("/assets/LogoRaro.jpg");
+display: inline-block;
+position: relative;
+width: 35px;
+top: 5px;
+
 # Welcome to my world !
 
 Qui suis-je : mon travail, mes hobbies, mes emmerdes !
