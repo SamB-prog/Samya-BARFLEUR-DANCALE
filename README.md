@@ -9,7 +9,7 @@ Tu peux visiter ma [page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dan
 
 ![Image](SAMYA_01-BQ.jpg)
 
-### 08/04/2021 : la création de mon 1er site internet :)
+### 08/04/2021 : la création de mon 1er site internet !
 
 ![Image](Coder et héberger son site.jpeg)
 
