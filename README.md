@@ -1,7 +1,7 @@
 # Samya BARFLEUR 
 #### aka Sam B
 
-Qui suis-je, mes hobbies, mes passions, mes emmerdes... vous saurez tout !
+Qui suis-je, mes hobbies, mes emmerdes !
 
 [Page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
 
