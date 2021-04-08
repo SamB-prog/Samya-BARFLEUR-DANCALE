@@ -8,6 +8,6 @@ Mon premier site codé facilement
 
 #### créé par SamB
 
-[LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
+[Page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/)
 
 ![Image](AdobeStock_306299275.jpeg)
