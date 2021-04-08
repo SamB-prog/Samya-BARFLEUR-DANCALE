@@ -6,4 +6,4 @@ Mon premier site codé facilement
 
 #### créé par SamB
 
-[samb creations](https//instagram.com/sambcreations)
+[samb creations](https://instagram.com/sambcreations)
