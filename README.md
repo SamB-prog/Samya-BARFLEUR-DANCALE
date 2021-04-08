@@ -2,6 +2,8 @@
 
 Mon premier site codé facilement
 
+![Image](logo.png)
+
 ![Image](SAMYA_01-BQ.jpg)
 
 #### créé par SamB
