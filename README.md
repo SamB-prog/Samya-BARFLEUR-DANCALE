@@ -7,6 +7,8 @@ Mais voilà j'ai bel et bien appris à coder mon premier site...mais il faut avo
 
 Autant mettre en pratique tout de suite mes connaissances...ici je te raconte tout, qui je suis : mon travail, mes hobbies, mes emmerdes!
 
+> >  > If you don't do it now so when ?
+
 Tu peux visiter ma [page LinkdIn](https://www.linkedin.com/in/samya-barfleur-dancale-a96951121/) pour avoir plus d'informations sur les activités que je mène à Sèmè City, la Cité internationale de l'innovation et du Savoir (CIIS) et aller voir ma [page instagram](https://www.instagram.com/sam_b.creations/?hl=fr) où je viens de lancer un projet qui me tient à coeur depuis plusieurs mois. 
 
 ![Image](SAMYA_01-BQ.jpg)
