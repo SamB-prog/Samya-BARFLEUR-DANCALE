@@ -2,7 +2,12 @@
 
 
 
-### Le début de l'aventure Github
+
+
+### 1. Le début de l'aventure Github
+
+
+
 
 Dans le cadre de la campagne du programme Ambassadeur de Sèmè City, un des candidats : Hamidou TESSILIMI, étudiant en 2ème année à Epitech Bénin a eu une formidable idée : proposer une mini formation pour apprendre à coder sur Github. En 1h dit-il ! Je dois avouer que j'avais du mal à croire en cette promesse. 
 Mais voilà j'ai bel et bien appris à coder mon premier site...mais il faut avouer que cela m'a pris un peu plus d'1h. 
