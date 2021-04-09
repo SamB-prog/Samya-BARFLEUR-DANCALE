@@ -6,7 +6,7 @@ Dans le cadre de la campagne du programme Ambassadeur de Sèmè City, un des can
 Mais voilà j'ai bel et bien appris à coder mon premier site...mais il faut avouer que cela m'a pris un peu plus d'1h. 
 
 
-> > If you don't do it now so when ?
+> > *If you don't do it now so when ?*
 
 
 Autant mettre en pratique tout de suite mes connaissances...ici je te raconte tout, qui je suis : mon travail, mes hobbies, mes emmerdes!
