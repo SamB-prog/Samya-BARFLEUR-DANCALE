@@ -47,5 +47,5 @@ Nous voila donc ce jeudi 08/04/2021, réunis dans la salle de formation située 
 ![Image](Coder et héberger son site.jpeg)
 
 
-Avant de rentrer dans le vif du sujet, nous avons d'abord appris à coder en jouant grâce à une [plateforme gratuite](https://codecombat.com/play) que vous pouvez vous aussi tester. Ele est accessible dès de 5 ans donc autant vous dire que vous aussi vous pouvez le faire ! 
+Avant de rentrer dans le vif du sujet, nous avons d'abord appris à coder en jouant grâce à une [plateforme gratuite](https://codecombat.com/play) que vous pouvez vous aussi tester. Ele est accessible dès 5 ans donc autant vous dire que vous aussi vous pouvez le faire ! 
 
